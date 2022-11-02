@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @INGENIO
-- 👀 I’m interested in Web development and cross-platform mobile development
-- 🌱 I’m actually Node JS and Flutter
-- 💞️ I’m looking to collaborate on Flutter and/or Node JS projects
+- 👀 I’m interested in Backend development
+- 🌱 I’m actually Python Django developer
+- 💞️ I’m looking to collaborate on Django projects
 - 📫 How to reach me: email: ingeniokhalif@gmail.com, WhatsApp: +237656144663
 
 <!---
