@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @INGENIO
 - 👀 I’m interested in Backend development
-- 🌱 I’m actually Python Django developer
-- 💞️ I’m looking to collaborate on Django projects
+- 🌱 I’m actually a Python Django developer
+- 💞️ I’m looking to collaborate on Django or any backend projects
 - 📫 How to reach me: email: ingeniokhalif@gmail.com, WhatsApp: +237656144663
 
 <!---
