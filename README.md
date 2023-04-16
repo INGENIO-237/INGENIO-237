@@ -1,7 +1,7 @@
-- 👋 Hi, I’m #@INGENIO
+- 👋 Hi, I’m @INGENIO
 - 👀 I’m interested in _*Backend development*_
-- 🌱 I’m actually a _*Java Spring Boot developer, learning C# ASP.Net Core Backend Development*_
-- 💞️ I’m looking to collaborate on Java/C# or any backend projects
+- 🌱 I’m actually a _*Junior Java Spring Boot developer*_
+- 💞️ I’m looking to collaborate on Java Spring Boot or any backend projects
 - 📫 How to reach me: email: ingeniokhalif@gmail.com, WhatsApp: 00237 656 144 663
 
 <!---
