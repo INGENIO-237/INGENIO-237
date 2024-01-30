@@ -26,7 +26,7 @@ I'm a passionate JavaScript Backend Developer specializing in MongoDB, Node.js, 
 
 ## 📈 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=INGENIO-237&show_icons=true&count_private=true&hide=stars&theme=dark)](https://github.com/INGENIO-237)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=INGENIO-237&show_icons=true&count_private=true&hide=stars&theme=light)](https://github.com/INGENIO-237)
 
 ## 📫 Let's Connect
 
