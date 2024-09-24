@@ -28,6 +28,9 @@ I'm a passionate JavaScript Backend Developer specializing in MongoDB, Node.js, 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=INGENIO-237&show_icons=true&count_private=true&hide=stars&theme=light)](https://github.com/INGENIO-237)
 
+## Wakatime Stats
+[![wakatime](https://wakatime.com/badge/user/d96fcc68-a326-41b9-a36f-c9eeb317a3b6.svg)](https://wakatime.com/@d96fcc68-a326-41b9-a36f-c9eeb317a3b6)
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-hamadou-abdel-kalif-671111228/)
